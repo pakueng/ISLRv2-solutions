@@ -475,6 +475,7 @@ Boston[Boston$medv == min(Boston$medv), ] |>
 
 sapply(Boston, quantile) |>
   kable()
+
 ```
 
 > h. In this data set, how many of the census tract average more than seven
